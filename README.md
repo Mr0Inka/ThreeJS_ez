@@ -1,2 +1,10 @@
 # ThreeJS_ez
-Easy .obj viewer with threeJS and express
+
+Easy to use, really basic OBJ viewer with ThreeJS.  
+
+- Models (.obj) go into /assets/model/
+- Textures be used automatically if they are also in /assets/model/ (need to share a name with the .obj and be in .png)
+
+Install nodeJS and express, then run server.js and head to localhost:8080 in your browser.  
+
+Tested in Chrome.
